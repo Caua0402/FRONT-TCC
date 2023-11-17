@@ -10,6 +10,8 @@
   import Link from 'next/link';
   import toast from 'react-hot-toast';
 
+  //teste 
+
 
 
   export default function CadastroCliente() {
